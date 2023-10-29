@@ -1,8 +1,7 @@
 ### Task
 
-```
 Make generator of random elements in random order without duplicates from vector of elements. Original container can be mutated if necessary. Only overall time is important: does not matter whether algorithm pre-shuffles elements or calculates next element when called.
-```
+
 
 Solutions are slightly simplified so that they modify preallocated vectors instead of returning elements one by one.
 
